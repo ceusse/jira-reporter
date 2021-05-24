@@ -1,4 +1,4 @@
-# Time reporter
+# Time reporter [Build](https://github.com/ceusse/time-reporter/actions/workflows/build.yml/badge.svg)
 Tool to automatically report time in Jira and Dynamics 365 daily
 
 ## Motivation
@@ -28,6 +28,6 @@ You can open it again suing the icon in the system tray.
 - Implement the option to work with Pomodoro 
 - Enable default options to send report
 - Autodetect when a task changes status and report time accordingly.
-- Completely automated work: If conditions are met and configuration required done, the reporter will post the time without telling you.
+- Completely automated work: If conditions are met and configuration is done, the reporter will post the time without telling you.
 - Notifications when a report cannot be uploaded
 - Reported time monitoring: Check if you are missing time each week and maybe fill it for you?
